@@ -15,5 +15,11 @@ public class HelloWorld {
 		p.modelNumber = "abcd";
 		
 		p.Print(2);
+		
+		
+		
+		System.
+		
+		
 	}
 }
