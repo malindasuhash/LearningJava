@@ -18,15 +18,6 @@ public class Problem9 {
 	
 	private static void Test()
 	{
-		// Take a number (a)
-		// Take another number (b)
-		// Power a and b and add them together (c)
-		// then square root c.
-		// is C has decimal points?
-		// if yes, the repeat
-		// otherwise add a + b + c == 1000 ?
-		// if yes then return a*b*c;
-		
 		for (int i = 1; i < 1000; i++)
 		{
 			int inner = 0;
